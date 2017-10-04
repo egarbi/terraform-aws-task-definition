@@ -13,4 +13,4 @@ module "task" {
 }
 ```
 
-> Note: To see a more useful Usage example look in aws-terraform-aws-ecs-service module
+> Note: To see a more useful Usage example look in aws-terraform-ecs-service module
